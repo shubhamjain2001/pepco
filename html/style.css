@@ -1,0 +1,43 @@
+h1{
+    margin-left: 3rem;
+}
+
+li{
+    list-style: none;
+    margin-left: 2rem;
+}
+.navbar>nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+ul{
+    display: flex;
+}
+
+.welcomeImage>img{
+    height: 100vh;
+    width: 95vw;
+    margin-left: 2.5vw;
+    margin-right: 2.5vw;
+}
+
+.skills{
+    display: flex;
+}
+
+.skills>div{
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    height: 80px;
+    text-align: center;
+}
+
+.footer>p{
+    font-size: 25px;
+}
